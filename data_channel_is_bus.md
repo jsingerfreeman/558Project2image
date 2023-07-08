@@ -1,4 +1,4 @@
-Analysis of the Online News Popularity Business Channel
+Analysis of the Business Channel
 ================
 Landon Batts and Jose Singer-Freeman
 due 2023-07-09
@@ -6,7 +6,7 @@ due 2023-07-09
 - <a href="#online-news-popularity-analysis-for-business-channel"
   id="toc-online-news-popularity-analysis-for-business-channel">Online
   News Popularity Analysis for Business Channel</a>
-  - <a href="#1introducton" id="toc-1introducton">1.Introducton</a>
+  - <a href="#1introduction" id="toc-1introduction">1.Introduction</a>
   - <a href="#2-import-data" id="toc-2-import-data">2. Import Data</a>
   - <a href="#3-basic-summary-statistics"
     id="toc-3-basic-summary-statistics">3. Basic Summary Statistics</a>
@@ -56,7 +56,7 @@ if(params$channel=="data_channel_is_lifestyle"){
 
 # Online News Popularity Analysis for Business Channel
 
-## 1.Introducton
+## 1.Introduction
 
 In this project we work with the [online news popularity data
 set](https://archive.ics.uci.edu/dataset/332/online+news+popularity)

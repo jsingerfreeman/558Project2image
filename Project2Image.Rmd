@@ -6,6 +6,7 @@ params:
       channel: ""
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=FALSE,  warning=FALSE)
 #if currently blocked, unblock the channel parameter
@@ -68,11 +69,11 @@ library(DescTools)
 library(reshape2)
 library(MASS)
 library(tidyr)
-library(doParallel)
+  
 ```
 # Online News Popularity Analysis for `r  chosenChannel` Channel
 
-## 1.Introducton
+## 1.Introduction
 
 
 In this project we work with the [online news popularity data set](https://archive.ics.uci.edu/dataset/332/online+news+popularity)  published by UC Irvine.  The data set summarizes a heterogeneous set of features about articles published by Mashable in a period of two years.  
