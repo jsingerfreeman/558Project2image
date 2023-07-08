@@ -32,15 +32,15 @@ tidyr
 
 ## Analyses 
 
-The analysis for [Lifestyle articles is available here](data_channel_is_lifestyle.html)  
+The analysis for [Lifestyle articles is available here](data_channel_is_lifestyle.md)  
 
-The analysis for [Business articles is available here](data_channel_is_bus.html)  
+The analysis for [Business articles is available here](data_channel_is_bus.md)  
 
-The analysis for [Entertainment articles is available here](data_channel_is_entertainment.html)   
+The analysis for [Entertainment articles is available here](data_channel_is_entertainment.md)   
   
-The analysis for [Social Media articles is available here](data_channel_is_socmed.html)  
+The analysis for [Social Media articles is available here](data_channel_is_socmed.md)  
 
-The analysis for [Tech articles is available here](data_channel_is_tech.html)  
+The analysis for [Tech articles is available here](data_channel_is_tech.md)  
 
-The analysis for [World articles is available here](data_channel_is_world.html)  
+The analysis for [World articles is available here](data_channel_is_world.md)  
 
